@@ -5,6 +5,6 @@ title: Welcome!
 
 # Welcome to My Friend's Website
 
-![My Friend](friend.jpg)
+![My Friend](smari.jpeg)
 
 This is a simple website about my friend.
