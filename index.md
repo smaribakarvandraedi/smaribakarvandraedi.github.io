@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Welcome!
+title: Velkomin á OnlyBuns
 ---
 
-# Welcome to My Friend's Website
+# Velkomin á OnlyBuns
 
-![My Friend](smari.jpeg)
+![Smári bakari](smari.jpeg)
 
-This is a simple website about my friend.
+Smári bakar bara vandræði.
