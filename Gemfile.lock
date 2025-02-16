@@ -303,6 +303,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-github-metadata
+  jekyll-remote-theme
+  kramdown
+  kramdown-parser-gfm
+  rouge
 
 BUNDLED WITH
    2.6.3
