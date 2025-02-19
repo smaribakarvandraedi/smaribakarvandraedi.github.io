@@ -5,4 +5,8 @@ title: Velkomin á OnlyBuns
 
 # Velkomin á OnlyBuns
 
-🧇 [Belgískar vöfflur](waffles.md)
+🍆 [Kökuklám](kokuklam/)
+
+🥖 [Ciabatta Deluxe](ciabatta/)
+
+🥐 [Vínarbrauðsævintýrið](vinarbraud/)
