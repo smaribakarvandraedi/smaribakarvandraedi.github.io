@@ -7,6 +7,6 @@ title: Velkomin á OnlyBuns
 
 🍆 [Kökuklám](kokuklam/)
 
-🥖 [Ciabatta Deluxe](ciabatta/)
-
 🥐 [Vínarbrauðsævintýrið](vinarbraud/)
+
+🥖 [Ciabatta Deluxe](ciabatta/)
