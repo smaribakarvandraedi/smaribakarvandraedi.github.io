@@ -8,21 +8,21 @@ permalink: /ciabatta/
 
 Þetta er **deluxe ciabatta uppskrift**, sem þarf að undirbúa deginum áður. Fullkomið fyrir þá sem vilja baka **í steinofni við háan hita**.
 
-![Ciabatta](ciabatta.jpeg)
+[![Ciabatta](ciabatta/thumbnails/ciabatta.jpg)](ciabatta/ciabatta.jpg)
 
 ## **Innihaldsefni**
 ### **Dagur 1 (Forgerjun – Biga)**
-- 250g hveiti
-- 180ml vatn
-- 1g þurrger
+- 250g hveiti  
+- 180ml vatn  
+- 1g þurrger  
 
 ### **Dagur 2 (Deig)**
-- Allt biga fordeigið
-- 250g hveiti
-- 150ml vatn
-- 5g salt
-- 3g þurrger
-- 15ml ólífuolía
+- Allt biga fordeigið  
+- 250g hveiti  
+- 150ml vatn  
+- 5g salt  
+- 3g þurrger  
+- 15ml ólífuolía  
 
 ---
 

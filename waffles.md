@@ -6,7 +6,7 @@ permalink: /waffles/
 
 # Belgísku vöfflurnar hans Smára 🧇
 
-![Dásamlegar belgískar vöfflur](waffles.jpeg)
+[![Dásamlegar belgískar vöfflur](waffles/thumbnails/waffles.jpeg)](waffles/waffles.jpeg)
 
 ## **Innihaldsefni**
 - 2 bollar hveiti  
@@ -27,5 +27,4 @@ permalink: /waffles/
 6. Bakaðu í 3-5 mínútur eða þar til vöfflurnar eru gullinbrúnar.  
 7. Berðu fram með uppáhalds meðlæti þínu (rjóma, ávöxtum, sýrópi o.fl.).  
 
-**Njóttu!** 🍽️  
-
+**Njóttu!** 🍽️
