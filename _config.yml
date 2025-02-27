@@ -10,3 +10,4 @@ plugins:
 logo: thumbnails/smari.jpeg
 include:
   - _includes/head-custom.html
+# Trigger redeployment
