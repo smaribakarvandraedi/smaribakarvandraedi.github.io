@@ -1,0 +1,23 @@
+- id: "cake1"
+  name: "Súkkulaðikaka"
+  price: 4900
+  description: "Dásamleg súkkulaðikaka með rjóma og ávöxtum."
+  image: "/kokuklam/cake1.jpeg"
+
+- id: "cake2"
+  name: "Jafnréttisvöfflur"
+  price: 3500
+  description: "Jafnréttisvöfflur með sykurpúðum og Nutella."
+  image: "/waffles/waffles.jpeg"
+
+- id: "veisla1"
+  name: "Lítil veisla"
+  price: 25000
+  description: "Bakarinn mætir með veitingar fyrir 10 manns!"
+  image: "/ciabatta/ciabatta.jpeg"
+
+- id: "veisla2"
+  name: "Stór veisla"
+  price: 50000
+  description: "Veitingar fyrir 20 manns með allskonar gómsætum réttum."
+  image: "/vinarbraud/IMG_8245.jpg"

@@ -4,49 +4,54 @@ title: Vínarbrauðsævintýrið
 permalink: /vinarbraud/
 ---
 
-# 🥐 Vínarbrauðsævintýrið
-
-Þetta er sagan um hvernig Smári og Edda lögðu allt í sölurnar til að fullkomna vínarbrauð.
-
+Þetta er sagan af því hvernig Smári kenndi Matta og Eddu að fullkomna vínarbrauð
 ---
 
-## **1️⃣ Fyrstu skrefin**
+## **Fyrstu skrefin**
 [![IMG_8174](thumbnails/IMG_8174.jpg)](IMG_8174.jpg)
-*Allt byrjar með góðum hráefnum...*
+
+*Allar fyllingarnar sem að við notuðum. Pistasíufylling, súkkulaðifylling, ostafylling, vanillukrem og kirsubyrjasúkkulaðiganash*
 
 ---
 
-## **2️⃣ Smári í essinu sínu**
+## **Smári í essinu sínu**
 [![IMG_8200](thumbnails/IMG_8200.jpg)](IMG_8200.jpg)
-*Fagmannlegt vinnubrögð við útflötun...*
+
+*Smári kennir okkur fagmannleg vinnubrögð við að fletja út*
 
 [![IMG_8201](thumbnails/IMG_8201.jpg)](IMG_8201.jpg)
-*Lögð áhersla á nákvæmni.*
+
+*Svo lætur hann okkur skera stykkin með hárnákvæmum mælingum.*
 
 ---
 
-## **3️⃣ Samvinna er lykilatriði**
+## **Samvinna er lykilatriði**
 [![IMG_8205](thumbnails/IMG_8205.jpg)](IMG_8205.jpg)
-*Þegar tveir sameina krafta sína verður til galdur.*
+
+*Það er allt hægt þegar að Smári á í hlut. Edda og Smári gera mismunandi form úr deiginu. Smári kennir okkur 5 mismunandi brot fyrir vínarbrauðin.*
 
 [![IMG_8217](thumbnails/IMG_8217.jpg)](IMG_8217.jpg)
-*Lokaskrefin fyrir fullkomnun... eða óvænt uppákoma?*
+
+*Besti parturinn var samt auðvitað savory vínarbrauðin -- þau breyttu lífi mínu og skemmdu öll önnur vínarbrauð fyrir mér. Mig dreymir enn um þetta savory vínarbrauð.*
 
 ---
 
-## **4️⃣ Brauðið fer í ofninn**
+## **Brauðið fer í ofninn**
 [![IMG_8230](thumbnails/IMG_8230.jpg)](IMG_8230.jpg)
-*Spennan magnast – lyktin byrjar að fylla eldhúsið.*
+
+*Við settumst öll fyrir framan ofninn og horfðum á saman á þróunina í ofninum.*
 
 [![IMG_8234](thumbnails/IMG_8234.jpg)](IMG_8234.jpg)
-*Brauðið lifnar við – þarna er alvöru vínarbrauð að verða til.*
+
+*Allt tilbúið inni í ofninum!*
 
 ---
 
-## **5️⃣ Lokaniðurstaðan!**
+## **Lokaniðurstaðan!**
 [![IMG_8245](thumbnails/IMG_8245.jpg)](IMG_8245.jpg)
-*Sigursvipur! Þetta er listaverk í vínarbrauðaformi.*
+
+*Mynd of okkur með afrakstrinum.*
 
 ---
 
-🔥 **Endir? Nei, þetta er bara byrjunin. Hver veit hvert næsta bakstursævintýri leiðir okkur?**
+**Hver veit hvert næsta bakstursævintýri leiðir okkur?**

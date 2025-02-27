@@ -71,6 +71,12 @@ Kökuklám er undir áhrifum frá [dyraklam.is](https://dyraklam.is)
 [![Kaka 21](thumbnails/cake11.jpeg)](cake11.jpeg)  
 *dirty á gólfinu*
 
+[![Kaka 22](thumbnails/cake24.jpeg)](cake24.jpeg)  
+*heimsins besta kaka*
+
+[![Kaka 23](thumbnails/cake23.jpeg)](cake23.jpeg)  
+*Seinfeld!*
+
 ---
 
 🔥 **Sendu inn þína eigin kökuklám mynd!**
