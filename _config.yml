@@ -4,6 +4,9 @@ description: Smári bakar bara vandræði
 github:
   is_project_page: false
 remote_theme: pages-themes/minimal@v0.2.0
+repository: smaribakarvandraedi/smaribakarvandraedi.github.io
 plugins:
 - jekyll-remote-theme
 logo: thumbnails/smari.jpeg
+include:
+  - _includes/head-custom.html
