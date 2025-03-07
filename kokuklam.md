@@ -8,6 +8,13 @@ permalink: /kokuklam/
 
 Kökuklám er undir áhrifum frá [dyraklam.is](https://dyraklam.is)
 
+<video controls width="100%">
+  <source src="{{ '/assets/videos/blaut.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*wet and sticky*
+
 [![Kaka 1](thumbnails/cake13.jpeg)](cake13.jpeg)  
 *cougar*
 
